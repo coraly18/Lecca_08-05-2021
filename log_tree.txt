@@ -1,0 +1,6 @@
+* d62f894 (HEAD -> main, origin/main) Aggiunta nuova immagine. Modificata regola css
+| * 7301a95 (origin/dev, dev) Aggiunta regola al css da applicare al tag h2
+|/  
+* be81c2a Aggiunto file style.css
+* e7fee47 Aggiunta pagina web località di mare
+* 502b308 Prima commit
